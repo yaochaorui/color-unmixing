@@ -1,2 +1,5 @@
+out*/
 *.pro.user
 build*
+res/
+.vscode/
